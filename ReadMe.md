@@ -1,5 +1,5 @@
 
 ## Screenshots
 
-![App Screenshot]('./assets/ss.jpeg')
+![App Screenshot]("./assets/ss.jpeg")
 
